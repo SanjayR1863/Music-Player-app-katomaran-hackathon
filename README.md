@@ -20,20 +20,22 @@ First, you will need to start Metro, the JavaScript bundler that ships with Reac
 
 To start Metro, run the following command from the root of your React Native project:
 
-```#using npm
+```
+# using npm
 npm start
 
-#OR using Yarn
+# OR using Yarn
 yarn start
 ```
 Step 2: Start your Application
 Let Metro Bundler run in its own terminal. Open a new terminal from the root of your React Native project. Run the following command to start your Android or iOS app:
 
 For Android
-```#using npm
+```
+# using npm
 npm run android
 
-#OR using Yarn
+# OR using Yarn
 yarn android
 ```
 If everything is set up correctly, you should see your new app running in your Android Emulator shortly provided you have set up your emulator/simulator correctly.
@@ -60,7 +62,6 @@ If you can't get this to work, see the Troubleshooting page.
 To learn more about React Native, take a look at the following resources:
 
 [React Native Website](https://reactnative.dev/) - learn more about React Native.
-Getting Started - an overview of React Native and how setup your environment.
-Learn the Basics - a guided tour of the React Native basics.
-Blog - read the latest official React Native Blog posts.
-@facebook/react-native - the Open Source; GitHub repository for React Native.
+[Getting Started](https://reactnative.dev/docs/environment-setup) - an overview of React Native and how setup your environment.
+[Learn the Basics](https://reactnative.dev/docs/getting-started) - a guided tour of the React Native basics.
+

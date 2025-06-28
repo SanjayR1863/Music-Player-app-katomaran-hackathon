@@ -49,4 +49,4 @@ Open `App.tsx` in your text editor of choice and edit some lines.
 
 For Android: Press the R key twice or select "Reload" from the Developer Menu (Ctrl + M (on Window and Linux) or Cmd ⌘ + M (on macOS)) to see your changes!
 
-"This project is a part of hackathon run by[https://www.katomaran.com](https://www.katomaran.com/)"
+"This project is a part of hackathon run by [https://www.katomaran.com](https://www.katomaran.com/)"

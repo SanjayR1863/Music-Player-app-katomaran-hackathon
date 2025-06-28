@@ -7,31 +7,33 @@ The app scans the device's internal storage for music files, automatically categ
 
 By focusing solely on locally stored music, Mplayer ensures faster loading times and offline availability, catering to users who prefer to manage and listen to their music library without relying on an internet connection.
 
+# Download Apk
+[MPlayer.apk](https://drive.google.com/file/d/1vBA-9GPkU2zd6JckNcznvb73rTNKAVuY/view?usp=sharing)
 This is a new React [Native project](https://reactnative.dev/), bootstrapped using [@react-native-community/cli](https://github.com/react-native-community/cli).
 
 # Getting Started
-Note: Make sure you have completed the React Native - Environment Setup instructions till "Creating a new application" step, before proceeding.
+> **Note:** Make sure you have completed the [React Native-Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 Step 1: Start the Metro Server
 First, you will need to start Metro, the JavaScript bundler that ships with React Native.
 
 To start Metro, run the following command from the root of your React Native project:
 
-using npm
+```using npm
 npm start
 
 OR using Yarn
-yarn start
+yarn start```
 
 Step 2: Start your Application
 Let Metro Bundler run in its own terminal. Open a new terminal from the root of your React Native project. Run the following command to start your Android or iOS app:
 
 For Android
-using npm
+```using npm
 npm run android
 
 OR using Yarn
-yarn android
+yarn android```
 
 If everything is set up correctly, you should see your new app running in your Android Emulator shortly provided you have set up your emulator/simulator correctly.
 

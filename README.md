@@ -7,7 +7,7 @@ The app scans the device's internal storage for music files, automatically categ
 
 By focusing solely on locally stored music, Mplayer ensures faster loading times and offline availability, catering to users who prefer to manage and listen to their music library without relying on an internet connection.
 
-This is a new React Nativeproject, bootstrapped using @react-native-community/cli.
+This is a new React [Native project](https://reactnative.dev/), bootstrapped using [@react-native-community/cli](https://github.com/react-native-community/cli).
 
 # Getting Started
 Note: Make sure you have completed the React Native - Environment Setup instructions till "Creating a new application" step, before proceeding.
